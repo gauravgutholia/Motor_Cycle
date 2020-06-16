@@ -1,0 +1,129 @@
+#title {
+  background-color: teal;
+  color: aliceblue;
+}
+h1 {
+  font-style: italic;
+  font: bold;
+  size: 4rem;
+  line-height: 1.5;
+}
+.container-fluid {
+  padding-top: 3%;
+
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.container-fluid1 {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 3%;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.padding {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar-nav {
+  position: absolute;
+  top: 3.5rem;
+  right: 100px;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.title-image {
+  width: 60%;
+  position: relative;
+  left: 100px;
+}
+.motor1 {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: teal;
+  text-align: center;
+  padding-top: 5%;
+}
+.motor2 {
+  padding-left: 200px;
+  padding-right: 200px;
+  text-align: justify;
+  padding: 3%;
+}
+.bike6 {
+  /* width: 25%;
+        margin-left: 550px;
+        vertical-align: middle;*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.text-justify {
+  text-align: justify;
+}
+#testimonials {
+  background-color: teal;
+  margin-top: 180px;
+  object-fit: cover;
+}
+.testimonial-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.price {
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+.footer {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: teal;
+  padding: 7% 15%;
+}
+#footer1 {
+  text-align: center;
+  padding: 5% 15%;
+  background-color: teal;
+  color: aliceblue;
+}
+.social-p {
+  margin: 20px 10px;
+}
+.logo {
+  width: 8%;
+  border-bottom-width: 5px;
+  padding-bottom: 40px;
+  padding-right: 8px;
+}
+@media (max-width: 830px) {
+  .logo {
+    width: 20%;
+  }
+}
+@media (max-width: 500px) {
+  .nav-b {
+    padding-top: 30px;
+  }
+}
+@media (max-width: 991px) {
+  .navbar-nav {
+    padding-top: 22px;
+  }
+}
