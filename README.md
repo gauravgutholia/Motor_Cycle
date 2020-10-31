@@ -8,4 +8,4 @@ You can start editing the page by modifying /index.html.
 To learn more about bootstrap take a look at https://getbootstrap.com/ 
 or icon used from  https://fontawesome.com/
 # Project Detail
-This website is for Bike Lover.
+This website is for Super Bike Lover.
